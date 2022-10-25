@@ -24,7 +24,7 @@ h1 {
 }
 
 .score {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.753);
   padding: 0 3rem;
   line-height: 1;
   border-radius: 1rem;
@@ -63,7 +63,7 @@ h1 {
   top: 100%;
   width: 100%;
   height: 70%;
-  transition: all 0.5s;
+  transition: all 1s;
 }
 
 .hole.up .mole {
